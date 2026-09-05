@@ -1,2 +1,0 @@
-test image placeholder
-claude push test
